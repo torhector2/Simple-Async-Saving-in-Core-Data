@@ -1,6 +1,5 @@
 //
 //  SavingDataService.h
-//  IOSBoilerplate
 //
 //  Copyright (c) 2012 Héctor Rodríguez Forniés
 //  
@@ -26,7 +25,7 @@
 //  OTHER DEALINGS IN THE SOFTWARE.
 //  
 
-#import <Foundation/Foundation.h>
+#import <Foundation/Foundation.h> 
 
 @interface SavingDataService : NSObject
 
